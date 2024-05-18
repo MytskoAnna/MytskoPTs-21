@@ -262,7 +262,7 @@ a {
 
 .header {
 	position: relative;
-	background-image: url(head-picture.jpg);
+	background-image: url(img/head-picture.jpg);
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -417,7 +417,7 @@ h2 {
 .price {
     position: relative;
     max-width: 100%;
-    background-image: url('money.jpeg');
+    background-image: url('img/money.jpeg');
     background-size: cover;
     background-position: center;
 	padding: 100px 0 120px 0;
@@ -919,7 +919,7 @@ h4 {
 	.about-us {
     position: relative;
     max-width: 100%;
-    background-image: url('about-us.png');
+    background-image: url('img/about-us.png');
     background-size: cover;
     background-position: center;
     padding: 105px 0 190px 0;
@@ -1002,7 +1002,7 @@ h4 {
 	.about-us {
     position: relative;
     max-width: 100%;
-    background-image: url('about-us.png');
+    background-image: url('img/about-us.png');
     background-size: cover;
     background-position: center;
     padding: 105px 0 190px 0;
